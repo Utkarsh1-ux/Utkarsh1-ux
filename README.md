@@ -4,12 +4,10 @@
 ---
 
 ## 🚀 About Me
-- 🎓 CSBS Student at UEM Kolkata
+- 🎓 CSBS Student at Narula institute of technology Kolkata
 - 💻 MERN Stack Developer
 - 🧠 Strong in Data Structures & Algorithms
-- 🎯 Targeting 8-10 LPA Software Roles
 - 🌱 Currently improving system design & scalable backend architecture
-
 ---
 
 ## 🛠 Tech Stack
@@ -17,6 +15,8 @@
 ### 💻 Languages
 - C++
 - JavaScript
+- python
+- java
 
 ### 🌐 Frontend
 - React.js
@@ -56,5 +56,5 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINK
-- Email: yourmail@gmail.com
+- LinkedIn: https://www.linkedin.com/in/utkarsh-raj-14bb66381
+- Email: utkarsh18mish@gmail.com
