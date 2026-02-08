@@ -15,8 +15,8 @@
 ### 💻 Languages
 - C++
 - JavaScript
-- python
-- java
+- Python
+- Java
 
 ### 🌐 Frontend
 - React.js
