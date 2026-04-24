@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Mishra</h1>
+<h1 align="center">Hi 👋, I'm Utkarsh Raj</h1>
 <h3 align="center">Full Stack Developer (MERN) | Backend Focused</h3>
 
 ---
