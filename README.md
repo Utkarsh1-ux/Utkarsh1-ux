@@ -3,44 +3,44 @@
 
 ---
 
-## 🚀 About Me
-- 🎓 CSBS Student at Narula institute of technology Kolkata
-- 💻 MERN Stack Developer
-- 🧠 Strong in Data Structures & Algorithms
-- 🌱 Currently improving system design & scalable backend architecture
+#  About Me
+-  CSBS Student at Narula institute of technology Kolkata
+-  MERN Stack Developer
+-  Strong in Data Structures & Algorithms
+-  Currently improving system design & scalable backend architecture
 ---
 
-## 🛠 Tech Stack
+# Tech Stack
 
-### 💻 Languages
+#  Languages
 - C++
 - JavaScript
 - Python
 - Java
 
-### 🌐 Frontend
+#  Frontend
 - React.js
 - HTML
 - CSS
 
-### ⚙ Backend
+#  Backend
 - Node.js
 - Express.js
 
-### 🗄 Database
+# Database
 - MongoDB
 
-### 🔐 Authentication
+#  Authentication
 - JWT
 
-### 🛠 Tools
+# Tools
 - Git
 - GitHub
 - Postman
 
 ---
 
-## 📌 Featured Projects
+#  Featured Projects
 - 🔹 Full Stack E-commerce App
 - 🔹 Job Portal Backend API
 - 🔹 Authentication System (JWT)
@@ -48,13 +48,13 @@
 
 ---
 
-## 📊 GitHub Stats
+#  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh1-ux&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+# Connect With Me
 - LinkedIn: https://www.linkedin.com/in/utkarsh-raj-14bb66381
 - Email: utkarsh18mish@gmail.com
